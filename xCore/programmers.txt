@@ -1,0 +1,27 @@
+usbasp1.name=USBasp 750 kHz
+usbasp1.communication=usb
+usbasp1.protocol=usbasp
+usbasp1.program.protocol=usbasp
+usbasp1.program.tool=avrdude
+usbasp1.program.extra_params=-Pusb
+usbasp1.program.extra_params=-B 1
+
+usbasp2.name=USBasp 375 kHz
+usbasp2.communication=usb
+usbasp2.protocol=usbasp
+usbasp2.program.protocol=usbasp
+usbasp2.program.tool=avrdude
+usbasp2.program.extra_params=-Pusb
+usbasp2.program.extra_params=-B 2
+
+usbasp3.name=USBasp 187 kHz
+usbasp3.communication=usb
+usbasp3.protocol=usbasp
+usbasp3.program.protocol=usbasp
+usbasp3.program.tool=avrdude
+usbasp3.program.extra_params=-Pusb
+usbasp3.program.extra_params=-B 3
+
+# 1 - 750000 Hz
+# 2 - 375000 Hz
+# 3 - 187500 Hz
