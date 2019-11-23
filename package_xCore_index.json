@@ -11,12 +11,12 @@
       "platforms": [
        
 		{
-          "name": "GyverCore",
+          "name": "xCore",
           "architecture": "avr",
           "version": "0.1",
           "category": "Contributed",
-          "url": "https://github.com/AlexGyver/GyverCore/releases/download/GyverCore-1.10.2/GyverCore.zip",
-          "archiveFileName": "GyverCore.zip",
+          "url": "https://github.com/Saynok/xCore/releases/download/xCore-v0.1/xCore.zip",
+          "archiveFileName": "xCore.zip",
           "checksum": "MD5:dd4bb5fe199eaed4c11fe9f5df47cf04",
           "size": "59026732",
           "boards": [
