@@ -17,8 +17,9 @@
           "category": "Contributed",
           "url": "https://github.com/Saynok/xCore/releases/download/xCore-v0.1/xCore.zip",
           "archiveFileName": "xCore.zip",
-          "checksum": "MD5:dd4bb5fe199eaed4c11fe9f5df47cf04",
-          "size": "59026732",
+          "checksum": "MD5:f5a585856f3ba2eb28b0ff29faa47cb8",
+		  
+          "size": "57778046",
           "boards": [
             {"name": "ATmega328 based boards"}
           ],
